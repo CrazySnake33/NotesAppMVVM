@@ -22,7 +22,7 @@ class MainActivity : ComponentActivity() {
                Scaffold(
                    topBar = {
                             TopAppBar(
-                                title = {Text(text = "NotesApp")},
+                                title = {Text(text = "Notes App")},
                                 backgroundColor = Color.Blue,
                                 contentColor = Color.White,
                                 elevation = 12.dp
